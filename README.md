@@ -6,8 +6,7 @@ A personal collection of notes, patterns, and problem-solving strategies 🧩 wh
 ---
 
 ## 📸 Preview
-
-![[preview.png]]
+Check Preview .png
 
 ---
 

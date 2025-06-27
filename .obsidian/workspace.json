@@ -180,10 +180,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7f0915bc320800a",
+  "active": "1348b87dfd807612",
   "lastOpenFiles": [
     "preview",
-    "preview.png",
+    "preview",
+    "preview/preview.png",
     "Heap/Heap.md",
     "README.md",
     "Excalidraw/letterCombination-dr.excalidraw.md",
