@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "Heap",
+      "color": {
+        "a": 1,
+        "rgb": 3010608
+      }
+    },
+    {
+      "query": "NeetCode",
+      "color": {
+        "a": 1,
+        "rgb": 15532546
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7045359483413808,
+  "scale": 0.7227478623668206,
   "close": true
 }
