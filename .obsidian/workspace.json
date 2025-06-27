@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heap/Heap.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heap"
+              "title": "README"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "1348b87dfd807612",
   "lastOpenFiles": [
-    "Excalidraw/letterCombination-dr.excalidraw.md",
+    "preview",
+    "preview/preview.png",
     "Heap/Heap.md",
+    "README.md",
+    "Excalidraw/letterCombination-dr.excalidraw.md",
     "Heap",
     "Backtracking/backtracking with loops.md",
     "Backtracking/51-N-Queens.md",
@@ -200,7 +203,6 @@
     "Backtracking/backtracking.md",
     "Excalidraw",
     "Excalidraw/bruteforce-dr.md",
-    "Untitled.md",
     "drawings",
     "Backtracking",
     "Welcome.md"
