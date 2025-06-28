@@ -10,7 +10,7 @@ Priority Queue
 #unsorted heap
 A=[-4,3,1,0,2,5,10,8,12,9]
 #Heapify
-#O(n),O(1)
+#O(nlogn),O(1)
 import heapq
 heapq.heapify(A)
 
@@ -81,5 +81,25 @@ a=array
 from collections import Counter
 counter=Counter(a)
 #getting frequency
- 
+heap = [(freq, val) for val, freq in counter.items()]
+#we will have normal heap
+heapq.heapify(heap)
+
+# Access items by lowest frequency
+while heap:
+    freq, val = heapq.heappop(heap)
+    print(f"{val} appears {freq} times")
 ```
+
+## For MaxHeap
+
+```python
+heap = [(-freq, val) for val, freq in counter.items()]
+heapq.heapify(heap)
+
+# Highest frequency comes first
+while heap:
+    freq, val = heapq.heappop(heap)
+    print(f"{val} appears {-freq} times")
+```
+
