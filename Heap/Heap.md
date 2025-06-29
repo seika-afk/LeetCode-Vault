@@ -1,5 +1,4 @@
 Priority Queue
-[[NeetCode -150]]
 
 # Heaps and Priority Queues
 
